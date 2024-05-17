@@ -1,0 +1,39 @@
+
+/* @import "~bootstrap/dist/css/bootstrap.min.css" */.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #272525;
+    color: aliceblue;
+  }
+  
+  .login-form label {
+    margin-bottom: 10px;
+  }
+  
+  .login-form input {
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+  }
+  
+  .login-form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .login-form button:hover {
+    background-color: #3e8e41;
+  }
+  .head{
+    text-align: center;
+    text-shadow: #3e8e41;
+    padding: 10px;
+    font-style: italic;
+    font:bold
+  }
+  
